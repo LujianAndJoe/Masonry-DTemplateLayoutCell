@@ -1,0 +1,17 @@
+//
+//  GloabHead.pch
+//  MansoryLayout
+//
+//  Created by Joe on 15/12/14.
+//  Copyright © 2015年 Joe. All rights reserved.
+//
+
+#ifndef GloabHead_pch
+#define GloabHead_pch
+
+#import "Masonry.h"
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* GloabHead_pch */
